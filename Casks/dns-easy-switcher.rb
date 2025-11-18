@@ -1,6 +1,6 @@
 cask "dns-easy-switcher" do
-    version "1.0.6"
-    sha256 "284f6a8853d0d8ed11d827096e456f4bcd2bb40fbb1e3c9acaadc3739411406c"
+    version "1.0.7"
+    sha256 "83571dc7169711091eaaf67911c7ac53aa39deabcdb214e4f52fe3af91ea5125"
   
     url "https://github.com/glinford/dns-easy-switcher/releases/download/v#{version}/DNS.Easy.Switcher.dmg"
     name "DNS Easy Switcher"
